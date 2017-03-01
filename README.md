@@ -19,3 +19,5 @@ It also replaces GREEK ANO TELEIA by MIDDLE DOT.
 Although principally designed to strip the Greek diacritics from NFC text, it should still work for NFD text.
 
 The mapping table currently has 233 characters, some of which are never seen in Biblical Greek text.
+
+The simple mapping table was prepared using Excel. My workbook has also been uploaded for transparency.
