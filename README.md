@@ -22,6 +22,8 @@ The mapping table currently has 233 characters, some of which are never seen in 
 
 The simple mapping table was prepared using Excel. My workbook has also been uploaded for transparency.
 
+The derived copy of the mapping table in which the file name ends with **BC** uses Byte Codes in the Find column.
+
 **Acknowledgement**: The excellent Unicode text editor for Windows called [BabelPad](http://www.babelstone.co.uk/Software/BabelPad.html) was invaluable in preparing this file.
 
 My bespoke TextPipe filter has now been uploaded.
