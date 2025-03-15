@@ -13,7 +13,7 @@ The file can be used as an *external replace list* (e.g.) in conjunction with a 
 It also replaces GREEK ANO TELEIA by MIDDLE DOT.
 
 - This does not change the [Unicode normalization](https://en.wikipedia.org/wiki/Unicode_equivalence) form from **NFC**.
-- It does not remove any Quotation Marks.
+- It does not remove any **Quotation Marks**.
 - It does not remove any General Diacritics from **NFD** text.
 
 Although principally designed to strip the Greek diacritics from NFC text, it should still work for NFD text.
