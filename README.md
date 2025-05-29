@@ -35,3 +35,16 @@ Most users will need to edit the absolute path for the external replace list fil
 Currently, this is "C:\Users\David\TextPipe Filters\Custom\Greek\UTF8GreekAccents.tab"
 
 *And not every Windows user is called David.*
+
+## U+2019 Right Single Quotation Mark
+**U+2019** is commonly used in digital editions of the NT Greek as the apostrophe, not as a quotation mark.
+
+In NT Greek, it appears in:
+
+- **Elisions**: When a vowel at the end of a word is dropped (e.g., δι’ instead of διά before a vowel).
+- **Contractions or abbreviations**: e.g., ἐπ’ for ἐπί, καθ’ for κατά.
+
+While U+2019 is typographically correct for apostrophes in modern typesetting, some older or simpler digital texts may use U+0027 (straight apostrophe).
+However, U+2019 is the preferred character in high-quality, properly typeset Greek texts.
+
+Seeing as U+2019 is not a **Greek Accent** *per se*, it is not included in the mapping table, despite it being one of the characters in the SWORD filter **UTF8GreekAccents**.
